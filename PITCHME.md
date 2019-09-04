@@ -66,6 +66,8 @@ int func(int x) {
 }
 ```
 
+---
+
 #### Challenge Example 2
 
 The format is: `(input) -> output`
@@ -108,3 +110,9 @@ March    | Games AI  | 15/25
 May      | Games AI  | 7/9
 ```
 
+TODO:
+
+Images / Video
+Scholarship
+Industry mentors
+Part of a larger project - GWBL
