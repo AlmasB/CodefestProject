@@ -10,6 +10,12 @@
 
 ---
 
+#### Gamification + Work-based Learning
+
+Codefest is part of (GWBL), which is a successful CLT Scholarship project, ready to run in 19-20.
+
+---
+
 #### Project Aim
 
 Codefest is a software development event aimed at helping students to progress and use latest
@@ -36,7 +42,9 @@ technologies in the field, with the help from industry experts.
 
 #### Teams
 
-Students from all courses are welcome.
+* Students from all courses are welcome.
+* Industry experts are sometimes present to mentor students.
+
 
 ---
 
@@ -109,10 +117,26 @@ February | Software  | 22/29
 March    | Games AI  | 15/25
 May      | Games AI  | 7/9
 ```
+---
 
-TODO:
+#### Happy Students 1
 
-Images / Video
-Scholarship
-Industry mentors
-Part of a larger project - GWBL
+![codefest](images/codefest1.jpg)
+
++++
+
+#### Happy Students 2
+
+![codefest](images/codefest2.jpg)
+
++++
+
+#### Happy Students 3
+
+![codefest](images/codefest3.jpg)
+
++++
+
+#### Marketing Film
+
+![Video](https://www.youtube.com/embed/ntAzEUH8bvg)
