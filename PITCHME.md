@@ -127,11 +127,19 @@ May      | Games AI  | 7/9
 #### Survey Results
 
 > Codefest events were a great way of improving both technical and teamworking skills whilst having a good time. They were also a good way of meeting people on our course. 
+
 > The Codefest events are amazing and useful.
+
 > Codefest is a nice addition to have
+
++++
+
 > 'codefests' challenge students and improve their knowledge
+
 > Codefest was an innovative idea but difficult to attend due to running alongside assessments.
+
 > code fest is a learning environment that is fun and also teaches us valuable employability skills.
+
 > extracurricular activities such as the Codefest enhance the learning experience
 
 
