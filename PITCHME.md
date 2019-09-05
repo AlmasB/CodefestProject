@@ -65,6 +65,8 @@ The format is: `(input) -> output`
 - `(3) -> 5`
 - `(5) -> 7`
 
++++
+
 We can derive the question: (x) + 2?
 
 
@@ -85,6 +87,8 @@ The format is: `(input) -> output`
 - `(-1, 0) -> 180`
 - `(0, -1) -> 270`
 
++++
+
 We can derive the question: the angle of a vector (x, y)?
 
 
@@ -102,7 +106,7 @@ Typically practical computing devices, such as a Raspberry Pi (image).
 
 Sponsors:
 
-CEM School, CSIUS, Springboard, Brandwatch / Crimson Hexagon
+CEM School, CSIUS, Springboard, Brandwatch
 
 ---
 
@@ -140,3 +144,7 @@ May      | Games AI  | 7/9
 #### Marketing Film
 
 ![Video](https://www.youtube.com/embed/ntAzEUH8bvg)
+
+---
+
+#### Thank you!
