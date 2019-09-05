@@ -102,7 +102,7 @@ int func(int x, int y) {
 
 #### Prizes
 
-Typically practical computing devices, such as a Raspberry Pi (image).
+Typically practical computing devices, such as a Raspberry Pi.
 
 Sponsors:
 
