@@ -2,8 +2,6 @@
 
 ### The Codefest Project
 
-> "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime." - David Leinweber
-
 - Project Overview
 - Implementation Details
 - Report on 2018-19 achievements
@@ -20,15 +18,6 @@ Codefest is part of (GWBL), which is a successful CLT Scholarship project, ready
 
 Codefest is a software development event aimed at helping students to progress and use latest
 technologies in the field, with the help from industry experts.
-
----
-
-#### Benefits
-
-- Promotes teamwork and peer learning
-- Students experience team-based software development workflow
-- Students make industry contacts
-- Students utilise state-of-the-art software technologies
 
 ---
 
@@ -110,6 +99,15 @@ CEM School, CSIUS, Springboard, Brandwatch
 
 ---
 
+#### Benefits
+
+- Promotes teamwork and peer learning
+- Students experience team-based software development workflow
+- Students make industry contacts
+- Students utilise state-of-the-art software technologies
+
+---
+
 #### Results 2018-19
 
 ```
@@ -166,6 +164,13 @@ May      | Games AI  | 7/9
 #### Marketing Film
 
 ![Video](https://www.youtube.com/embed/ntAzEUH8bvg)
+
+---
+
+#### Plan for 2019-20
+
+- Registered with UKIEPC (The UK/IE Programming Contest)
+- 6 events planned
 
 ---
 
