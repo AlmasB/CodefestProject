@@ -1,23 +1,28 @@
 ---
 
-### The Codefest Project
+### Gamification + Work-based Learning (GWBL)
 
 - Project Overview
 - Implementation Details
-- Report on 2018-19 achievements
+- Report on 2018-20 achievements
 
 ---
 
-#### Gamification + Work-based Learning
+#### CLT Scholarship project
 
-Codefest is part of (GWBL), which is a successful CLT Scholarship project, ready to run in 19-20.
+- WBL: employability through authentic practical experience.
+- Gamification: game principles in non-game contexts.
+- Codefest: implementation of GWBL 2018-20.
 
 ---
 
 #### Project Aim
 
-Codefest is a software development event aimed at helping students to progress and use latest
-technologies in the field, with the help from industry experts.
+Codefest brings together:
+
+- students
+- latest technologies in Computer Science
+- industry experts
 
 ---
 
@@ -91,11 +96,11 @@ int func(int x, int y) {
 
 #### Prizes
 
-Typically practical computing devices, such as a Raspberry Pi.
-
 Sponsors:
 
 CEM School, CSIUS, Springboard, Brandwatch
+
+![codefest](images/prizes.jpg)
 
 ---
 
@@ -111,13 +116,13 @@ CEM School, CSIUS, Springboard, Brandwatch
 #### Results 2018-19
 
 ```
-Month    | Theme     | Attended / Registered
-October  | Maths     | 9/15
-November | UI        | 10/16
-December | Computing | 16/25
-February | Software  | 22/29
-March    | Games AI  | 15/25
-May      | Games AI  | 7/9
+Month    | 2018-19 | 2019-20
+October  | 9/15    | 25/50
+November | 10/16   | 15/20
+December | 16/25   | 12/23
+February | 22/29   | 12/15 + 15 college
+March    | 15/25   | N/A
+May      | 7/9     | N/A
 ```
 
 ---
@@ -158,6 +163,30 @@ May      | Games AI  | 7/9
 #### Happy Students 3
 
 ![codefest](images/codefest3.jpg)
+
++++
+
+#### Happy Students 4
+
+![codefest](images/Oct2019.jpg)
+
++++
+
+#### Happy Students 5
+
+![codefest](images/Nov2019.jpg)
+
++++
+
+#### Happy Students 6
+
+![codefest](images/Dec2019.jpg)
+
++++
+
+#### Happy Students 7
+
+![codefest](images/Feb2020.jpg)
 
 +++
 
