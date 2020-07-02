@@ -18,7 +18,7 @@
 
 #### Project Aim
 
-Codefest brings together:
+Codefest is a software development event that brings together:
 
 - students
 - latest technologies in Computer Science
@@ -113,7 +113,7 @@ CEM School, CSIUS, Springboard, Brandwatch
 
 ---
 
-#### Results 2018-19
+#### Results 2018-20
 
 ```
 Month    | 2018-19 | 2019-20
