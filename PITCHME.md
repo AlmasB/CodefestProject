@@ -18,7 +18,7 @@
 
 #### Project Aim
 
-Codefest is a software development event that brings together:
+Codefest is a monthly software development event that brings together:
 
 - students
 - latest technologies in Computer Science
@@ -39,7 +39,6 @@ Codefest is a software development event that brings together:
 * Students from all courses are welcome.
 * Industry experts are sometimes present to mentor students.
 
-
 ---
 
 #### Challenges
@@ -51,7 +50,7 @@ Each challenge has two steps:
 
 ---
 
-#### Challenge Example 1
+#### Challenge Example (Simplified)
 
 The format is: `(input) -> output`
 
@@ -67,28 +66,6 @@ We can derive the question: (x) + 2?
 ```
 int func(int x) {
     return x + 2;
-}
-```
-
----
-
-#### Challenge Example 2
-
-The format is: `(input) -> output`
-
-- `(1, 0) -> 0`
-- `(0, 1) -> 90`
-- `(-1, 0) -> 180`
-- `(0, -1) -> 270`
-
-+++
-
-We can derive the question: the angle of a vector (x, y)?
-
-
-```
-int func(int x, int y) {
-    return toAngle(atan2(y, x));
 }
 ```
 
@@ -141,10 +118,19 @@ May      | 7/9     | N/A
 
 > Codefest was an innovative idea but difficult to attend due to running alongside assessments.
 
-> code fest is a learning environment that is fun and also teaches us valuable employability skills.
+> codefest is a learning environment that is fun and also teaches us valuable employability skills.
 
 > extracurricular activities such as the Codefest enhance the learning experience
 
++++
+
+> Project Management
+
+> Teamwork and how to use GitHub
+
+> Experience in industry, collaboration and development of teamwork and social skills, honing of artistic skills
+
+> Communication, teamwork, and problem solving
 
 ---
 
@@ -196,10 +182,9 @@ May      | 7/9     | N/A
 
 ---
 
-#### Plan for 2019-20
+#### Plan for 2020-21
 
-- Registered with UKIEPC (The UK/IE Programming Contest)
-- 6 events planned
+Codefest moves online!
 
 ---
 
