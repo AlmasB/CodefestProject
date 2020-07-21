@@ -1,190 +1,70 @@
----
-
-### Gamification + Work-based Learning (GWBL)
-
-- Project Overview
-- Implementation Details
-- Report on 2018-20 achievements
 
 ---
 
-#### CLT Scholarship project
+### Delivering Programming Material Online
 
-- WBL: employability through authentic practical experience.
-- Gamification: game principles in non-game contexts.
-- Codefest: implementation of GWBL 2018-20.
-
----
-
-#### Project Aim
-
-Codefest is a monthly software development event that brings together:
-
-- students
-- latest technologies in Computer Science
-- industry experts
+- Lectures
+- Tutorials
+- Tips
 
 ---
 
-#### Implementation
+#### Identify Session Length
 
-- Teams
-- Challenges
-- Prizes
+- Traditional 50 mins ->  15 mins + break + 15 mins
+- Blended 50 mins -> 5-30 mins (pre-recorded) + 15 mins live
 
----
-
-#### Teams
-
-* Students from all courses are welcome.
-* Industry experts are sometimes present to mentor students.
+Note: 15 mins content time, not including intro / conclusion, etc.
 
 ---
 
-#### Challenges
+#### Identify Theory-Practice Balance
 
-Each challenge has two steps:
-
-1. Given a solution, figure out the question.
-2. Implement the solution.
-
----
-
-#### Challenge Example (Simplified)
-
-The format is: `(input) -> output`
-
-- `(2) -> 4`
-- `(3) -> 5`
-- `(5) -> 7`
-
-+++
-
-We can derive the question: (x) + 2?
-
-
-```
-int func(int x) {
-    return x + 2;
-}
-```
+- Theoretical material needs concrete examples (e.g. code, diagrams, etc.)
+- Give a demo upfront
+- Upload source code / lecture notes to GitHub / StudentCentral
 
 ---
 
-#### Prizes
+#### Set up Hardware
 
-Sponsors:
-
-CEM School, CSIUS, Springboard, Brandwatch
-
-![codefest](images/prizes.jpg)
-
----
-
-#### Benefits
-
-- Promotes teamwork and peer learning
-- Students experience team-based software development workflow
-- Students make industry contacts
-- Students utilise state-of-the-art software technologies
+- Limit internet usage during live session
+- Check camera output
+- Check mic output
+- Avoid using laptop mic and use a separate headset (e.g. from a phone) if available
+- Check settings, e.g. noise reduction, mic boost
 
 ---
 
-#### Results 2018-20
+#### Set up Software
 
-```
-Month    | 2018-19 | 2019-20
-October  | 9/15    | 25/50
-November | 10/16   | 15/20
-December | 16/25   | 12/23
-February | 22/29   | 12/15 + 15 college
-March    | 15/25   | N/A
-May      | 7/9     | N/A
-```
+Before session, open:
+
+- Lecture slides
+- Development Environment (IDE)
+- (optional) Paint for hand-drawn sketches
 
 ---
 
-#### Survey Results
+#### Set up Screen Share
 
-> Codefest events were a great way of improving both technical and teamworking skills whilst having a good time. They were also a good way of meeting people on our course. 
-
-> The Codefest events are amazing and useful.
-
-> Codefest is a nice addition to have
-
-+++
-
-> 'codefests' challenge students and improve their knowledge
-
-> Codefest was an innovative idea but difficult to attend due to running alongside assessments.
-
-> codefest is a learning environment that is fun and also teaches us valuable employability skills.
-
-> extracurricular activities such as the Codefest enhance the learning experience
-
-+++
-
-> Project Management
-
-> Teamwork and how to use GitHub
-
-> Experience in industry, collaboration and development of teamwork and social skills, honing of artistic skills
-
-> Communication, teamwork, and problem solving
+- Use larger font size
+- Share entire desktop if need multiple windows
 
 ---
 
-#### Happy Students 1
+#### Check Your Pace
 
-![codefest](images/codefest1.jpg)
-
-+++
-
-#### Happy Students 2
-
-![codefest](images/codefest2.jpg)
-
-+++
-
-#### Happy Students 3
-
-![codefest](images/codefest3.jpg)
-
-+++
-
-#### Happy Students 4
-
-![codefest](images/Oct2019.jpg)
-
-+++
-
-#### Happy Students 5
-
-![codefest](images/Nov2019.jpg)
-
-+++
-
-#### Happy Students 6
-
-![codefest](images/Dec2019.jpg)
-
-+++
-
-#### Happy Students 7
-
-![codefest](images/Feb2020.jpg)
-
-+++
-
-#### Marketing Film
-
-![Video](https://www.youtube.com/embed/ntAzEUH8bvg)
+- Slow down if needed
+- Can check time on desktop (bottom right on Windows 10)
 
 ---
 
-#### Plan for 2020-21
+#### Tutorials 
 
-Codefest moves online!
+- Screen share on Teams
+- Online collaboration tool: https://codecollab.io
+- IDEs also have built-in plugins: VS code live share, atom teletype, etc.
 
 ---
 
